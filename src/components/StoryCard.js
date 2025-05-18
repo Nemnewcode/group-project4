@@ -9,6 +9,7 @@ const StoryCard = ({ story }) => {
         <h3>{story.title}</h3>
         <p>{story.description}</p>
         <p className="story-meta">Thể loại: Ngôn tình | Trạng thái: Đang cập nhật</p>
+        <p className="story-meta">Thể loại: Rocome | Trạng thái: Đang cập nhật</p>
       </div>
     </Link>
     

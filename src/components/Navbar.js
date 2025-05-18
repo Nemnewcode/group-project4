@@ -5,7 +5,7 @@ import React from 'react';
        return (
          <nav className="navbar">
            <div className="navbar-brand">
-             <h1>Website Đọc Truyện Chữ</h1>
+             <h1>Mê Truyện</h1>
            </div>
            <ul className="navbar-menu">
              <li><Link to="/">Trang chủ</Link></li>
